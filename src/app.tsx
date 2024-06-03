@@ -1,6 +1,6 @@
 // import { useState } from 'preact/hooks'
 
-import { useCallback, useEffect, useState } from "preact/hooks"
+import { useCallback, useState } from "preact/hooks"
 import words from './assets/wordList.json'
 import HangmanDrawing from "./components/HangmanDrawing"
 import HangmanWord from "./components/HangmanWord"
